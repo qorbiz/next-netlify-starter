@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <>
       <footer className={styles.footer}>
-        <img src="/GhxnZ501.svg" alt="QORBIZ Logo" className={styles.logo} />
+        <img src="/qorbizlogo.png" alt="QORBIZ Logo" className={styles.logo} />
       </footer>
     </>
   )
