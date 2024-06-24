@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="QORBIZ" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Say Hi @ <code>hello@qorbiz.com</code>
         </p>
       </main>
 
