@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="QORBIZ" />
         <p className="description">
-          Say Hi @ <code>hello@qorbiz.com</code>
+          Contact us: <code>contact@qorbiz.com</code>
         </p>
       </main>
 
